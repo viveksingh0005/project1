@@ -1,0 +1,182 @@
+
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    color:rgb(205, 231, 252);
+    height: 60px;
+    background-color: #131d1d;
+    display:flex;
+    justify-content: space-between;
+
+}
+.re{padding-top: 10px;
+    margin-left: 50px;
+}
+.size{
+    margin-left: 50px;
+}
+.search{
+    margin-right: 50px;
+    padding-top: 15px;
+}
+.edit{
+    padding-top: 10px;
+}
+.drop{
+    padding-top: 15px;
+}
+.cloud{
+    padding-top: 15px;
+}
+
+
+
+.panel{
+    background-color: #041333;
+    height:150px;
+    display:flex;
+}
+
+.bande{
+    background-image: url("a\ logo\ using\ the\ characters\ E\ and\ B.png");
+    height: 100px;
+    width:100px;
+    margin-top: 20px;
+    background-size: cover;
+   
+}
+.engineering{
+    color:rgb(205, 231, 252);
+    margin-top: 80px;
+    
+
+}
+.home{
+   
+    color:rgb(205, 231, 252);
+    font-size: medium;
+    margin-left: 680px;
+    text-align: center;
+    height:30px;
+    margin-top: 40px;
+
+}
+.about{
+   
+    color:rgb(205, 231, 252);
+    font-size: medium;
+    margin-left: 30px;
+    text-align: center;
+    height:30px;
+    margin-top: 40px;
+}
+.contact{
+   
+    color:rgb(205, 231, 252);
+    font-size: medium;
+    margin-left: 30px;
+    text-align: center;
+    height:30px;
+    margin-top: 40px;
+}
+.hero{
+    background-color: rgb(205, 231, 252);
+    height:550px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.herologo{
+    display: flex;
+    margin-right: 0px;
+    height: 50px;
+    width:120px;
+    padding-top: 15px;
+    margin-left: 1090px;
+  
+}
+
+.crown{
+    color: red;
+    margin-left: 3px;
+}
+.info{
+    background-color: rgb(86, 86, 136);
+    height: 500px;
+    
+}
+.gst{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.be{
+    font-size: 80px;
+    color: black;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.cap{
+   margin-top: 50px;
+   margin-left:10px;
+   font-size: 40px;
+}
+.small{
+    font-style: oblique;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.job{
+    display: flex;
+    
+}
+.panel2{
+   height:40px;
+   background-color: #041333;
+   color:rgb(205, 231, 252);
+   padding-top: 10px;
+   text-align: center;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-top: 40px;
+}
+.hero2{
+    background-color: rgb(237, 241, 243);
+    height:800px;
+    text-align: center;
+}
+.au{
+   padding-top: 30px;
+    color:#041333;
+}
+.pau{
+    margin-left: 50px;
+    margin-right: 50px;
+    color:#041333;
+}
+.img{
+    background-image: url("image.jpg");
+    height: 450px;
+    width: 450px;
+    margin-top: 60px;
+    margin-left: 80px;
+    border-radius: 100%;
+   
+}
+.vm{
+    display: flex;
+  
+}
+.vision{
+   
+    margin-top:60px;
+    width:550px;
+    margin-left: 200px;
+    margin-right:50px ;
+    color:#041333;
+}
+
